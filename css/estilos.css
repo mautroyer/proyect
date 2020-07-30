@@ -1,0 +1,23 @@
+/* css del proyecto*/
+body{
+    background: url(image.jpg);   
+}
+
+div#header{
+    background-color: rgb(226, 161, 212);
+}
+header{   
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(234, 246, 163);
+}
+aside{
+    background-color: rgb(131, 131, 131);
+}
+main{
+    background-color: white;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
